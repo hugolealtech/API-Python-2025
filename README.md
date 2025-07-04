@@ -8,7 +8,7 @@ Postman ou Insomnia para testar a API (Postman, Insomnia).
 
 🚀 1. Clonar o Repositório Abra o terminal e execute:
 
-bash git clone (https://github.com/hugolealtech/CRUD-Python-2025.git)
+bash git clone (https://github.com/hugolealtech/API-Python-2025.git)
 
 cd CRUD-Python-2025;
 
